@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Python virtual environment & cache
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs & caches
+dist/
+build/
+.cache/
+.parcel-cache/
+.next/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Graph outputs & database files
+simulation_graph.png
+*.db
+*.log
